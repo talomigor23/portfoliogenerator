@@ -1,2 +1,2 @@
 # portfoliogenerator
- Automatiser la créqtion des portfolios
+ Automatiser la création des portfolios
